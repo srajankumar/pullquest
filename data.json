@@ -1,0 +1,18 @@
+[
+  {
+    "username": "srajankumar",
+    "name": "Srajan Kumar",
+    "age": 30,
+    "email": "johndoe@example.com"
+  },
+  {
+    "name": "Tejas Nayak",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  }
+]
