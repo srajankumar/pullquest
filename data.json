@@ -1,12 +1,53 @@
 [
   {
-    "username": "srajankumar",
     "name": "Srajan Kumar",
-    "age": 30,
-    "email": "johndoe@example.com"
+    "github": "srajankumar",
+    "instagram": "withpainsimon",
+    "twitter": "kumarsrajan02",
+    "linkedinURL": "linkedin.com/in/kumarsrajan/"
   },
   {
     "name": "Tejas Nayak",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
+    "age": 28,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Sankshipth",
     "age": 28,
     "email": "janesmith@example.com"
   },
