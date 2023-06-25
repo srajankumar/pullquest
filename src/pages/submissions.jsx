@@ -7,11 +7,11 @@ const submissions = () => {
     <div>
       <Background />
       <div className="w-full flex flex-wrap text-justify justify-center md:p-10 p-5 mb-10">
-        {Object.values(data).map((item, index) => (
+        {Object.values(data).map((item) => (
           <a href={`https://github.com/${item.username}`} target="_blank">
             <div
               className="transform sm:hover:scale-105 hover:normal-case w-[27rem] transition-all duration-300 flex items-center backdrop-blur-lg shadow-2xl rounded-xl font-bold p-5 m-3"
-              key={index}
+              key={item.username}
             >
               <div className="flex">
                 <img
