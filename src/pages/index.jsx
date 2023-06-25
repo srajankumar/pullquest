@@ -24,6 +24,7 @@ export default function Home() {
           <img
             src="https://readme-typing-svg.demolab.com?font=poppins&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=60&lines=Click+Here+to+begin+the+Quest+-%3E"
             alt="Typing SVG"
+            className="font-sans font-bold"
           />
         </Link>
       </h1>
