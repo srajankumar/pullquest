@@ -7,7 +7,7 @@ const Background = () => {
     <div>
       <Image
         src={waves}
-        className="fixed object-cover h-screen opacity-70 bottom-0 -z-10"
+        className="fixed object-cover h-screen opacity-50 bottom-0 -z-10"
         alt="img"
       />
     </div>

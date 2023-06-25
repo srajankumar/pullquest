@@ -4,11 +4,11 @@ import React from "react";
 const Navbar = () => {
   return (
     <div>
-      <header class="text-gray-600 backdrop-blur-sm body-font">
-        <div class="container mx-auto flex flex-wrap p-5 flex-row items-center">
+      <header className="text-black backdrop-blur-sm body-font">
+        <div className="container mx-auto flex flex-wrap p-5 flex-row items-center">
           <Link
             href="/"
-            class="flex title-font font-bold items-center text-black mb-4 md:mb-0"
+            className="flex title-font font-bold items-center text-gray-900 mb-0"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -21,20 +21,19 @@ const Navbar = () => {
                 d="M212 158.06v-34.18a59.61 59.61 0 0 0-17.57-42.42L173 60h19a12 12 0 0 0 0-24h-48a12 12 0 0 0-12 12v48a12 12 0 0 0 24 0V77l21.46 21.46A35.76 35.76 0 0 1 188 123.88v34.18a36 36 0 1 0 24 0ZM200 204a12 12 0 1 1 12-12a12 12 0 0 1-12 12ZM108 64a36 36 0 1 0-48 33.94v60.12a36 36 0 1 0 24 0V97.94A36.07 36.07 0 0 0 108 64ZM72 204a12 12 0 1 1 12-12a12 12 0 0 1-12 12Zm0-128a12 12 0 1 1 12-12a12 12 0 0 1-12 12Z"
               />
             </svg>
-            <span class="ml-3 text-xl">Pull-Quest</span>
           </Link>
-          <nav class="md:ml-auto font-bold md:mr-auto flex flex-wrap items-center text-base justify-center">
-            <Link href="/instructions" class="mr-5 hover:text-gray-900">
+          <nav className="ml-auto font-bold mr-auto flex flex-wrap items-center text-base justify-center">
+            <Link href="/instructions" className="mr-5 hover:text-purple-950">
               Instructions
             </Link>
-            <Link href="/submissions" class="mr-5 hover:text-gray-900">
+            <Link href="/submissions" className="mr-5 hover:text-purple-950">
               Submissions
             </Link>
           </nav>
           <div>
-            <a href="https://github.com/srajankumar/pullquest">
+            <a href="https://github.com/srajankumar/pullquest" target="_blank">
               <svg
-                className="text-black hover:text-gray-800"
+                className="hover:hover:text-purple-950"
                 xmlns="http://www.w3.org/2000/svg"
                 width="40"
                 height="40"
