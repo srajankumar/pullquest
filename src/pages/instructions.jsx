@@ -87,8 +87,8 @@ function App() {
         </div>
         <div className="flex text-xl m-10">
           Are you ready to embark on an epic journey with your first pull
-          request? Let's dive right into the action and make some magic happen!
-          🔥✨
+          request? Let&apos;s dive right into the action and make some magic
+          happen! 🔥✨
         </div>
         <div className="flex text-xl m-10">
           To begin, we need to fork the mighty repository 📂. Head over to the
@@ -104,9 +104,9 @@ function App() {
           your own.
         </div>
         <div className="flex text-xl m-10">
-          Now, let's bring the power of code to your local machine. Behold the
-          green button labeled "Code"! Click it and copy the sacred URL it
-          reveals. In your Gitbash terminal, unleash the command:
+          Now, let&apos;s bring the power of code to your local machine. Behold
+          the green button labeled &quot;Code&quot;! Click it and copy the
+          sacred URL it reveals. In your Gitbash terminal, unleash the command:
         </div>
         <div className="flex sm:h-auto h-14 items-center border rounded-xl m-10 bg-white">
           {renderTextArea(1)}
@@ -123,8 +123,8 @@ function App() {
         </div>
         <div className="flex text-xl m-10">
           But wait! We must tread carefully and avoid disrupting the balance of
-          the main branch. To do so, let's create a new branch, a realm of your
-          own within the repository. Speak the ancient words:
+          the main branch. To do so, let&apos;s create a new branch, a realm of
+          your own within the repository. Speak the ancient words:
         </div>{" "}
         <div className="flex items-center border rounded-xl m-10 bg-white">
           {renderTextArea(3)}
@@ -139,12 +139,12 @@ function App() {
           {renderButton(4)}
         </div>
         <div className="flex text-xl m-10">
-          With your profile sword in hand, let's add your unique profile details
-          to the hallowed hall of fame! Seek out the src/components directory
-          within your downloaded repository. Open the sacred data.json file and
-          behold the profiles that have come before you. Fear not, for you shall
-          join their ranks! Using their wisdom as a guide, add your own profile
-          in the following format:
+          With your profile sword in hand, let&apos;s add your unique profile
+          details to the hallowed hall of fame! Seek out the src/components
+          directory within your downloaded repository. Open the sacred data.json
+          file and behold the profiles that have come before you. Fear not, for
+          you shall join their ranks! Using their wisdom as a guide, add your
+          own profile in the following format:
         </div>
         <div className="flex sm:h-56 h-44 items-center border rounded-xl m-10 bg-white">
           {renderTextArea(5)}
@@ -155,8 +155,8 @@ function App() {
           file, for your journey is not yet complete.
         </div>
         <div className="flex text-xl m-10">
-          Now, it's time to gather your changes and prepare them for the grand
-          quest ahead. Invoke the sacred command:
+          Now, it&apos;s time to gather your changes and prepare them for the
+          grand quest ahead. Invoke the sacred command:
         </div>{" "}
         <div className="flex items-center border rounded-xl m-10 bg-white">
           {renderTextArea(6)}
@@ -186,9 +186,9 @@ function App() {
         <div className="flex text-xl m-10">
           Now, brave warrior, open your web browser and gaze upon your forked
           copy in your GitHub dominion. A new chapter unfolds before you as you
-          create a pull request, a gateway between realms. Select the 'new
-          branch' you have forged and aim it towards the realm of srajan's
-          profile branch.
+          create a pull request, a gateway between realms. Select the &apos;new
+          branch&apos; you have forged and aim it towards the realm of
+          srajan&apos;s profile branch.
         </div>
         <div className="flex text-xl m-10">
           With a mighty click, submit your pull request and await the moment

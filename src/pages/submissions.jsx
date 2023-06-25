@@ -25,7 +25,7 @@ const submissions = () => {
                   {item.name}
                 </div>
                 <div className="drop-shadow-[0_0_0.3rem_#ffffff70]">
-                  "{item.quote}"
+                  &quot;{item.quote}&quot;
                 </div>
               </div>
             </div>
