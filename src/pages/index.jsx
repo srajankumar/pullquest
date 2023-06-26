@@ -12,11 +12,6 @@ export default function Home() {
         alt="img"
       />
       <h1 className="fixed flex flex-col text-white  text-xl md:pb-20 pb-36 font-extrabold justify-center items-center h-full w-full">
-        {/* <img
-          className=""
-          src="https://readme-typing-svg.demolab.com?font=poppins&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=Pull-Quest"
-          alt="Typing SVG"
-        /> */}
         <div className="sm:text-7xl text-6xl font-sans">Pull Quest</div>
         <Link href="/instructions">
           <img
