@@ -17,12 +17,10 @@ export default function Home() {
           src="https://readme-typing-svg.demolab.com?font=poppins&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=Pull-Quest"
           alt="Typing SVG"
         /> */}
-        <div className="drop-shadow-[0_0_0.3rem_#ffffff70] sm:text-7xl text-6xl font-sans">
-          Pull Quest
-        </div>
+        <div className="sm:text-7xl text-6xl font-sans">Pull Quest</div>
         <Link href="/instructions">
           <img
-            src="https://readme-typing-svg.demolab.com?font=poppins&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=60&lines=Click+Here+to+begin+the+Quest+-%3E"
+            src="https://readme-typing-svg.demolab.com?size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=60&lines=Click+Here+to+begin+the+Quest+-%3E"
             alt="Typing SVG"
             className="font-sans font-bold"
           />
