@@ -12,7 +12,7 @@ const TextRunner = (props: Props) => {
     deleteSpeed: 50,
   });
   return (
-    <h1 className="py-5">
+    <h1 className="py-5 text-sm md:text-lg">
       <span>{text}</span>
       <Cursor
         cursorStyle="->"
