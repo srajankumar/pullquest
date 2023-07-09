@@ -1,7 +1,9 @@
 import { useRef, useState } from "react";
 import Background from "../components/Background";
+import Link from "next/link";
+import Footer from "../components/Footer";
 
-function App() {
+function Instruction() {
   const textRefs = useRef([]);
   const [texts, setTexts] = useState([
     "https://github.com/srajankumar/pullquest",
@@ -203,9 +205,15 @@ function App() {
           contributions be even more awe-inspiring as you continue your
           legendary journey!
         </div>
+        <div className="text-center rounded-lg text-lg m-10 md:py-5 py-3 bg-[#1111111c]">
+          <Link href="/explanation" className="font-bold hover:text-purple-950">
+            Explanation ?
+          </Link>
+        </div>
       </div>
+      <Footer />
     </>
   );
 }
 
-export default App;
+export default Instruction;
