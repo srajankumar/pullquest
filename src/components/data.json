@@ -11,5 +11,20 @@
     "name": "SushruthRao",
     "email": "ssushruth2003@gmail.com",
     "quote": "hello_world"
+  },
+
+  {
+    "username": "TejasNayak42",
+    "name": "Tejas Nayak B",
+    "email": "tejasnayak1917@gmail.com",
+    "quote": "Bruh!"
+  },
+
+  {
+    "username": "shivaninuji",
+    "name": "Shivani N",
+    "email": "shivanin.cs21@sahyadri.edu.in",
+    "quote": "Wubba Lubba dub dub!"
   }
+  
 ]
