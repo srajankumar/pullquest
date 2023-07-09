@@ -17,14 +17,14 @@ function Explanation() {
           <div className="flex py-2">
             <span className="text-gray-900">
               Forking a repository means creating a personal copy of someone
-              else's project on GitHub. It allows you to freely make changes
-              without affecting the original repository.
+              else&apos;s project on GitHub. It allows you to freely make
+              changes without affecting the original repository.
             </span>
           </div>
           <div className="flex border-t border-gray-200 py-2">
             <span className="text-gray-900">
-              By forking the repository, you'll have your own version of the
-              project under your GitHub account, which you can modify and
+              By forking the repository, you&apos;ll have your own version of
+              the project under your GitHub account, which you can modify and
               contribute to.
             </span>
           </div>
@@ -125,7 +125,7 @@ function Explanation() {
           <div className="flex border-t border-gray-200 py-2">
             <span className="text-gray-900">
               Committing means saving your changes with a descriptive message
-              indicating what you've done.
+              indicating what you&apos;ve done.
             </span>
           </div>
           <div className="flex border-t border-gray-200 py-2">
@@ -168,14 +168,15 @@ function Explanation() {
           </div>
           <div className="flex border-t border-gray-200 py-2">
             <span className="flex text-gray-900">
-              By creating a pull request, you're asking the repository owner to
-              consider your changes and merge them into the main branch.
+              By creating a pull request, you&apos;re asking the repository
+              owner to consider your changes and merge them into the main
+              branch.
             </span>
           </div>
           <div className="flex border-t border-gray-200 py-2">
             <span className="flex text-gray-900">
-              The pull request page allows you to review the changes you've made
-              and provide additional information or comments about your
+              The pull request page allows you to review the changes you&apos;ve
+              made and provide additional information or comments about your
               contribution.
             </span>
           </div>
