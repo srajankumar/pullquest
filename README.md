@@ -1,8 +1,8 @@
-# Pull Quest
+## Pull Quest
 
-#### Welcome, fellow developer, to an epic journey into the world of open source contributions! In this exhilarating quest, you will embark on your first pull request and leave your mark upon the codebase. Are you ready to unleash your coding prowess? Let's get started!
+Welcome, fellow developer, to an epic journey into the world of open source contributions! In this exhilarating quest, you will embark on your first pull request and leave your mark upon the codebase. Are you ready to unleash your coding prowess? Let's get started!
 
-## Fork the Repository
+### Fork the Repository
 
 To begin, you need to fork the mighty repository by following the steps below:
 
@@ -10,7 +10,7 @@ To begin, you need to fork the mighty repository by following the steps below:
 2. Locate the fork icon proudly displayed in the top-right corner of the repository.
 3. Click the fork icon to claim your own copy of the repository and make it your own.
 
-## Set Up Locally
+### Set Up Locally
 
 Once you have your forked repository, it's time to bring the power of code to your local machine. Follow these steps:
 
@@ -31,7 +31,7 @@ Replace <b>'YOUR_USERNAME'</b> with your magnificent GitHub username.
 cd pullquest
 ```
 
-## Create a New Branch
+### Create a New Branch
 
 Now, let's ensure the balance of the main branch remains undisturbed. Create a new branch within your repository realm using the steps below:
 
@@ -51,7 +51,7 @@ git checkout username-profile
 
 Equip yourself with your profile sword, for it is time to add your unique profile details.
 
-## Add Your Profile
+### Add Your Profile
 
 To join the hallowed hall of fame, you shall add your own profile details to the repository. Follow these instructions:
 
@@ -71,7 +71,7 @@ To join the hallowed hall of fame, you shall add your own profile details to the
 
 Replace the placeholder values (<b>'your_github_username'</b>, <b>'your_name'</b>, <b>'email_id'</b>, and <b>'sample_quote'</b>) with your own information.
 
-## Commit Your Changes
+### Commit Your Changes
 
 With each keystroke, you shape your destiny. Now, it's time to gather your changes and prepare them for the grand quest ahead. Follow these steps:
 
@@ -89,7 +89,7 @@ This will stage all your changes, ready for greatness.
 git commit -m "Embark on an epic adventure: add my profile details"
 ```
 
-## Push Your Changes
+### Push Your Changes
 
 The time has come to push your changes to your forked repository and illuminate the path for all to see. Execute the following command:
 
@@ -99,7 +99,7 @@ git push origin username-profile
 
 The forces of Git and GitHub shall carry your code to the distant reaches of the digital realm.
 
-## Create a Pull Request
+### Create a Pull Request
 
 Brave warrior, open your web browser and gaze upon your forked copy in your GitHub dominion. A new chapter unfolds before you as you create a pull request, a gateway between realms. Follow these steps:
 
@@ -109,16 +109,16 @@ Brave warrior, open your web browser and gaze upon your forked copy in your GitH
 4. The repository owner shall review your valorous contribution and, upon successfully merging it, your profile shall take its rightful place among the honored ranks.
 5. Behold, as your name shines brightly in the submissions tab, a beacon of your triumph! ⭐
 
-## Congratulations!
+### Congratulations!
 
 Congratulations, brave developer, on conquering your first pull request and leaving your mark upon the codebase. Your journey has just begun, and may your future contributions be even more awe-inspiring as you continue your legendary quest!
 
 Now, go forth and code with valor! 🚀
 
-## Authors
+### Authors
 
 - [@srajankumar](https://github.com/srajankumar)
 
-## Contributing
+### Contributing
 
 Contributions are welcome! ;)
