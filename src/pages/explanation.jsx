@@ -6,11 +6,11 @@ function Explanation() {
   return (
     <>
       <Background />
-      <div className="w-full justify-center md:p-10 p-5 mb-10 items-center">
-        <div className="flex sm:text-3xl text-2xl font-bold mx-10 my-5">
+      <div className="w-full justify-center md:p-10 px-5 mb-10 items-center">
+        <div className="flex sm:text-3xl text-2xl font-bold md:mx-10 sm:mx-5 mx-3 my-5">
           What did I just do?
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 1: Fork the Repository
           </h1>
@@ -29,7 +29,7 @@ function Explanation() {
             </span>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 2: Clone the Repository
           </h1>
@@ -55,7 +55,7 @@ function Explanation() {
             </div>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 3: Create a New Branch
           </h1>
@@ -83,7 +83,7 @@ function Explanation() {
             </span>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 4: Make Your Changes
           </h1>
@@ -101,7 +101,7 @@ function Explanation() {
             </span>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 5: Stage and Commit Your Changes
           </h1>
@@ -136,7 +136,7 @@ function Explanation() {
             </span>
           </div>{" "}
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 6: Push the Changes
           </h1>
@@ -155,7 +155,7 @@ function Explanation() {
             </span>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold text-2xl title-font mb-4">
             Step 7: Create the Pull Request
           </h1>
@@ -187,7 +187,7 @@ function Explanation() {
             </span>
           </div>
         </div>
-        <div className="md:text-xl m-10 sm:text-lg ">
+        <div className="md:text-xl md:m-10 my-5 sm:mx-5 mx-3 sm:text-lg ">
           <h1 className="text-black font-bold title-font mb-4">
             I hope this provides a clear explanation of each step and their
             significance in the pull request process!

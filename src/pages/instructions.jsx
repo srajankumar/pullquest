@@ -83,64 +83,64 @@ function Instruction() {
   return (
     <>
       <Background />
-      <div className="w-full justify-center md:p-10 p-5 mb-10 items-center">
-        <div className="flex sm:text-3xl text-2xl font-bold mx-10 my-5">
+      <div className="w-full justify-center md:p-10 px-5 mb-10 items-center">
+        <div className="flex sm:text-3xl text-2xl font-bold md:mx-10 sm:mx-5 mx-3 my-5">
           Hey there, fellow developer!
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Are you ready to embark on an epic journey with your first pull
           request? Let&apos;s dive right into the action and make some magic
           happen! 🔥✨
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           To begin, we need to fork the mighty repository 📂. Head over to the
           legendary realm of
         </div>
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(0)}
           {renderButton(0)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           and behold the fork icon proudly displayed in the top-right corner.
           With a single click, claim your own copy of the repository and make it
           your own.
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Now, let&apos;s bring the power of code to your local machine. Behold
           the green button labeled &quot;Code&quot;! Click it and copy the
           sacred URL it reveals. In your Gitbash terminal, unleash the command:
         </div>
-        <div className="flex sm:h-auto h-14 items-center border rounded-xl m-10 bg-white">
+        <div className="flex sm:h-auto h-14 items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(1)}
           {renderButton(1)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Replace &apos;YOUR_USERNAME&apos; with your magnificent GitHub
           username. Watch as the repository materializes before you. Enter the
           enchanted folder by typing:
         </div>
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(2)}
           {renderButton(2)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           But wait! We must tread carefully and avoid disrupting the balance of
           the main branch. To do so, let&apos;s create a new branch, a realm of
           your own within the repository. Speak the ancient words:
         </div>{" "}
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(3)}
           {renderButton(3)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Replace &apos;username&apos; with your legendary GitHub username. Now,
           venture forth into this new realm with the command:
         </div>
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(4)}
           {renderButton(4)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           With your profile sword in hand, let&apos;s add your unique profile
           details to the hallowed hall of fame! Seek out the src/components
           directory within your downloaded repository. Open the sacred data.json
@@ -148,64 +148,64 @@ function Instruction() {
           you shall join their ranks! Using their wisdom as a guide, add your
           own profile in the following format:
         </div>
-        <div className="flex sm:h-56 h-44 items-center border rounded-xl m-10 bg-white">
+        <div className="flex sm:h-56 h-44 items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(5)}
           {renderButton(5)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Feel the thrill of shaping your destiny with each keystroke. Save the
           file, for your journey is not yet complete.
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Now, it&apos;s time to gather your changes and prepare them for the
           grand quest ahead. Invoke the sacred command:
         </div>{" "}
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(6)}
           {renderButton(6)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Every change, every line of code, is now staged and ready for
           greatness. Commit your work with a powerful message that echoes
           through the ages:
         </div>{" "}
-        <div className="flex sm:h-auto h-14 items-center border rounded-xl m-10 bg-white">
+        <div className="flex sm:h-auto h-14 items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(7)}
           {renderButton(7)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           The time has come to push your changes to your forked repository,
           illuminating the path for all to see. Unleash the command:
         </div>{" "}
-        <div className="flex items-center border rounded-xl m-10 bg-white">
+        <div className="flex items-center border rounded-xl md:m-10 my-5 sm:mx-5 mx-3 bg-white">
           {renderTextArea(8)}
           {renderButton(8)}
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           The forces of Git and GitHub shall carry your code to the distant
           reaches of the digital realm.
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Now, brave warrior, open your web browser and gaze upon your forked
           copy in your GitHub dominion. A new chapter unfolds before you as you
           create a pull request, a gateway between realms. Select the &apos;new
           branch&apos; you have forged and aim it towards the realm of
           srajan&apos;s profile branch.
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           With a mighty click, submit your pull request and await the moment
           when fate intervenes. The repository owner shall review your valorous
           contribution and, upon merging it successfully, your profile shall
           take its rightful place among the honored ranks. Behold, as your name
           shines brightly in the submissions tab, a beacon of your triumph! ⭐
         </div>
-        <div className="flex md:text-xl sm:text-lg m-10">
+        <div className="flex md:text-xl sm:text-lg md:m-10 my-5 sm:mx-5 mx-3">
           Congratulations, brave developer, on conquering your first pull
           request and leaving your mark upon the codebase. May your future
           contributions be even more awe-inspiring as you continue your
           legendary journey!
         </div>
-        <div className="text-center rounded-lg text-lg m-10 md:py-5 py-3 bg-[#1111111c]">
+        <div className="text-center rounded-lg text-lg md:m-10 my-5 sm:mx-5 mx-3 md:py-5 py-3 bg-[#1111111c]">
           <Link href="/explanation" className="font-bold hover:text-purple-950">
             Explanation ?
           </Link>

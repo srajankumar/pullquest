@@ -1,11 +1,11 @@
 [
- {
+  {
     "username": "srajankumar",
     "name": "Srajan Kumar",
     "email": "kumarsrajan02@gmail.com",
     "quote": "Ifrit Jambe!"
   },
- 
+
   {
     "username": "SushruthRao",
     "name": "SushruthRao",
@@ -26,35 +26,39 @@
     "email": "shivanin.cs21@sahyadri.edu.in",
     "quote": "Wubba Lubba dub dub!"
   },
+
   {
-      "username": "ranjithkumar404",
-      "name": "Ranjith Kumar",
-      "email": "ranjithkumarshetty808@gmail.com",
-      "quote": "Go to sleep"
-    },
- {
+    "username": "ranjithkumar404",
+    "name": "Ranjith Kumar",
+    "email": "ranjithkumarshetty808@gmail.com",
+    "quote": "Go to sleep"
+  },
+
+  {
     "username": "tejas-gk",
     "name": "Tejasgk",
-    "email":"tejasgk250@gmail.com",
+    "email": "tejasgk250@gmail.com",
     "quote": "is that all you got?!"
   },
+
   {
     "username": "samarthra",
     "name": "Samarth Rao",
     "email": "sudhakarsudhi65@gmail.com",
     "quote": "sem_exam"
   },
+
   {
-    "username":"SankshipthShetty",
-    "name":"Sankshipth_Shetty",
-    "email":"sankshipthshetty@gmail.com",
-    "quote":"Rizz++"
+    "username": "SankshipthShetty",
+    "name": "Sankshipth_Shetty",
+    "email": "sankshipthshetty@gmail.com",
+    "quote": "Rizz++"
+  },
+
+  {
+    "username": "shaman-004",
+    "name": "Shaman_M",
+    "email": "shamanbusiness2004@gmail.com",
+    "quote": "Hakuna Matata"
   }
- {
-      "username": "shaman-004",
-      "name": "Shaman_M",
-      "email": "shamanbusiness2004@gmail.com",
-      "quote": "Hakuna Matata"
-    }
-  
 ]
