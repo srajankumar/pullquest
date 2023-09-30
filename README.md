@@ -16,7 +16,7 @@ To begin, you need to fork the mighty repository by following the steps below:
 
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create-fork.jpg)
+![create_fork](https://github.com/srajankumar/pullquest/blob/main/assets/create-fork.jpg)
 
 <hr/>
 
