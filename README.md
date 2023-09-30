@@ -15,7 +15,7 @@ To begin, you need to fork the mighty repository by following the steps below:
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/fork.jpg)
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_fork.jpg)
+![create_fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_fork.jpg)
 <hr/>
 
 ## Set Up Locally
@@ -40,7 +40,7 @@ cd pullquest
 
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/clone_fork.jpg)
+![clone_fork](https://github.com/srajankumar/pullquest/blob/main/assets/clone_fork.jpg)
 <hr/>
 
 ## Create a New Branch
@@ -85,10 +85,10 @@ Replace the placeholder values (<b>'your_github_username'</b>, <b>'your_name'</b
 
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/locate_file.jpg)
+![locate_file](https://github.com/srajankumar/pullquest/blob/main/assets/locate_file.jpg)
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/add_data.jpg)
+![add_data](https://github.com/srajankumar/pullquest/blob/main/assets/add_data.jpg)
 <hr/>
 
 ## Commit Your Changes
@@ -131,10 +131,10 @@ Brave warrior, open your web browser and gaze upon your forked copy in your GitH
 
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/open_pr.jpg)
+![open_pr](https://github.com/srajankumar/pullquest/blob/main/assets/open_pr.jpg)
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_pr.jpg)
+![create_pr](https://github.com/srajankumar/pullquest/blob/main/assets/create_pr.jpg)
 <hr/>
 
 ## Congratulations!
