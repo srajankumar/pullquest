@@ -18,9 +18,9 @@ Once you have your forked repository, it's time to bring the power of code to yo
 2. Copy the sacred URL that appears.
 3. Open your Gitbash terminal and unleash the following command:
 
-bash
+```bash
 git clone https://github.com/YOUR_USERNAME/pullquest.git
-
+```
 
 Replace <b>'YOUR_USERNAME'</b> with your magnificent GitHub username.
 
@@ -60,7 +60,7 @@ To join the hallowed hall of fame, you shall add your own profile details to the
 3. Fear not, for you shall join their ranks! Using their wisdom as a guide, add your own profile in the following format:
 
 ```json
-{
+,{
   "username": "your_github_username",
   "name": "your_name",
   "email": "email_id",
