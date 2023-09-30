@@ -13,9 +13,11 @@ To begin, you need to fork the mighty repository by following the steps below:
 <hr/>
 
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/fork.jpg)
+
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_fork.jpg)
+![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create-fork.jpg)
+
 <hr/>
 
 ## Set Up Locally
@@ -41,6 +43,7 @@ cd pullquest
 <hr/>
 
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/clone_fork.jpg)
+
 <hr/>
 
 ## Create a New Branch
@@ -80,15 +83,16 @@ To join the hallowed hall of fame, you shall add your own profile details to the
 }
 ```
 
-
 Replace the placeholder values (<b>'your_github_username'</b>, <b>'your_name'</b>, <b>'email_id'</b>, and <b>'sample_quote'</b>) with your own information.
 
 <hr/>
 
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/locate_file.jpg)
+![fork](https://github.com/srajankumar/pullquest/blob/main/assets/locate.jpg)
+
 <hr/>
 
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/add_data.jpg)
+
 <hr/>
 
 ## Commit Your Changes
@@ -132,9 +136,11 @@ Brave warrior, open your web browser and gaze upon your forked copy in your GitH
 <hr/>
 
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/open_pr.jpg)
+
 <hr/>
 
 ![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_pr.jpg)
+
 <hr/>
 
 ## Congratulations!
