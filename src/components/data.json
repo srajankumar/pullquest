@@ -200,5 +200,27 @@
     "name": "David",
     "email": "oluwademiladedavidoga@gmail.com",
     "quote": "One day, it'll look like it happened overnight. - me"
+  },   
+  
+  {
+    "username": "imnrb",
+    "name": "Nitish Bhattacharjee",
+    "email": "nitish.rupak@gmail.com",
+    "quote": "try try but dont cry"
+  },
+  
+  {
+    "username": "Swathi1203",
+    "name": "swathi singh",
+    "email": "swathisingh122002@gmail.com",
+    "quote": "Sometimes, when things are falling apart, they may actually be falling into place"
+  },
+
+  {
+    "username": "AyushAjay14",
+    "name": "Ayush Ajay",
+    "email": "ayushajay@gmail.com",
+    "quote": "Hello There!!"
   }
 ]
+
