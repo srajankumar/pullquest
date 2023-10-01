@@ -124,10 +124,25 @@
     "email":"mokshasai910@gmail.com",
     "quote":"Small steps matter.."
   },
+
   {
     "username":"IamSudhir-Kumar",
     "name":"Sudhir Kumar",
     "email":"sudhirk33835@gmail.com",
     "quote":"The secret of success is to do the common thing uncommonly well"
+  },
+  
+  {
+    "username": "abhisheksharm-3",
+    "name": "Abhishek Sharma",
+    "email": "abhishek2k3@outlook.com",
+    "quote": "World Owes you Nothing"
+  },
+  
+  {
+    "username": "manthankhawse",
+    "name": "Manthan Khawse",
+    "email": "khawsemanthan246@gmail.com",
+    "quote": "Knowing yourself is the beginning of all wisdom."
   }
 ]
