@@ -68,12 +68,14 @@
     "email": "sannidhikaje04@gmail.com",
     "quote": "om namah shivaya"
   },
-{
-  "username": "vimal-Dubey",
-  "name": "Vimal Dubey",
-  "email": "vimaldubey24345@gmail.com",
-  "quote": "Jai Shree Ram"
-},
+
+  {
+    "username": "vimal-Dubey",
+    "name": "Vimal Dubey",
+    "email": "vimaldubey24345@gmail.com",
+    "quote": "Jai Shree Ram"
+  },
+  
   {
     "username": "HondaChan14",
     "name": "Jason Jugo",
@@ -82,10 +84,16 @@
   },
  
   {
-  "username": "Akhil-Sharma-26",
-  "name": "Akhil",
-  "email": "asharma1_be22@thapar.edu",
-  "quote": "Hacktoberfest-tryout! :) "
+    "username": "Akhil-Sharma-26",
+    "name": "Akhil",
+    "email": "asharma1_be22@thapar.edu",
+    "quote": "Hacktoberfest-tryout! :) "
+  },
+  
+  {
+    "username": "DivyanshiNarang",
+    "name": "Divyanshi Narang",
+    "email": "divyanshi.narang16@gmail.com",
+    "quote": "Faith over Fear"
   }
- 
 ]
