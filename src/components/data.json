@@ -194,21 +194,21 @@
     "email": "dineshdeore.rcpit@gmail.com",
     "quote": "Fear kills more dreams than failure will ever"
   },
-  
+
   {
     "username": "OgaDavid",
     "name": "David",
     "email": "oluwademiladedavidoga@gmail.com",
     "quote": "One day, it'll look like it happened overnight. - me"
-  },   
-  
+  },
+
   {
     "username": "imnrb",
     "name": "Nitish Bhattacharjee",
     "email": "nitish.rupak@gmail.com",
     "quote": "try try but dont cry"
   },
-  
+
   {
     "username": "Swathi1203",
     "name": "swathi singh",
@@ -228,20 +228,25 @@
     "name": "Varshaa Shetty",
     "email": "shettyvarshaa275@gmail.com",
     "quote": "It is what it is, isn't it?"
-  }
+  },
 
-  ,{
+  {
     "username": "NiharaPadil",
     "name": "Nihara",
     "email": "niharapadilhr@gmail.com",
     "quote": "Google it!!"
+  },
+
+  {
+    "username": "kishanrajput23",
+    "name": "Kishan Kumar Rai",
+    "email": "kishan.rai99693@gmail.com",
+    "quote": "Belive in Yourself!"
+  },
+  {
+    "username": "riyaancode",
+    "name": "Mohammad Riyan",
+    "email": "mohammadriyan428@gmail.com",
+    "quote": "High on Javascript! 🚀"
   }
-
-  ,{
-  "username": "kishanrajput23",
-  "name": "Kishan Kumar Rai",
-  "email": "kishan.rai99693@gmail.com",
-  "quote": "Belive in Yourself!"
-}
 ]
-
