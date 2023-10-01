@@ -193,11 +193,20 @@
     "name": "Dinesh",
     "email": "dineshdeore.rcpit@gmail.com",
     "quote": "Fear kills more dreams than failure will ever"
-  }
-  ,{
+  },
+  
+  {
     "username": "imnrb",
     "name": "Nitish Bhattacharjee",
     "email": "nitish.rupak@gmail.com",
     "quote": "try try but dont cry"
+  },
+  
+  {
+    "username": "Swathi1203",
+    "name": "swathi singh",
+    "email": "swathisingh122002@gmail.com",
+    "quote": "Sometimes, when things are falling apart, they may actually be falling into place"
   }
 ]
+
