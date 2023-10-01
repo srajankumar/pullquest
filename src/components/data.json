@@ -98,7 +98,7 @@
   },
 
   {
-    "username": "itz_gaurang",
+    "username": "GbCderr14",
     "name": "Gaurang",
     "email": "gbcoder14@gmail.com",
     "quote": "No one is small."
@@ -112,10 +112,16 @@
   },
   
   {
+    "username": "dollarboysushil",
+    "name": "Sushil Poudel",
+    "email": "dollarboysushil@gmail.com",
+    "quote": "Hacktoberfest-2023"
+  },
+  
+  {
     "username":"mokshanirugutti",
     "name":"mokshanirugutti",
     "email":"mokshasai910@gmail.com",
     "quote":"Small steps matter.."
   }
-
 ]
