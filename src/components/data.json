@@ -248,18 +248,26 @@
     "name": "Atmaram Kamlbi",
     "email": "atmaramkambli22@gmail.com",
     "quote": "Never Give Up: Rather than thinking about what you don't know, think aobut what you know and practice, practice && practice!!!"
-  }
-
-  ,{
-  "username": "kishanrajput23",
-  "name": "Kishan Kumar Rai",
-  "email": "kishan.rai99693@gmail.com",
-  "quote": "Belive in Yourself!"
   },
+
   {
     "username": "Famozzy",
     "name": "Faidil A.",
     "email": "faidilfamozzy@gmail.com",
     "quote": "[object Object]"
+  },
+  
+  {
+    "username": "kishanrajput23",
+    "name": "Kishan Kumar Rai",
+    "email": "kishan.rai99693@gmail.com",
+    "quote": "Belive in Yourself!"
+  },
+  
+  {
+    "username": "riyaancode",
+    "name": "Mohammad Riyan",
+    "email": "mohammadriyan428@gmail.com",
+    "quote": "High on Javascript! 🚀"
   }
 ]
