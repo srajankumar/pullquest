@@ -177,8 +177,8 @@
   {
     "username": "babith1234",
     "name": "Babith",
-    "email":"babithpoojari@gmail.com",
-    "quote":"Believe you can and you're halfway there"
+    "email": "babithpoojari@gmail.com",
+    "quote": "Believe you can and you're halfway there"
   },
 
   {
@@ -193,5 +193,13 @@
     "name": "Ashish Rao",
     "email": "raoa5022@gmail.com",
     "quote": "If you don't take risks, you cant create a future.--Monkey.D.Luffy (One Piece)"
+  },
+
+  {
+    "username": "Dinesh-Deore1",
+    "name": "Dinesh",
+    "email": "dineshdeore.rcpit@gmail.com",
+    "quote": "Fear kills more dreams than failure will ever"
   }
 ]
+
