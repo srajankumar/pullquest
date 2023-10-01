@@ -262,32 +262,45 @@
     "email": "faidilfamozzy@gmail.com",
     "quote": "[object Object]"
   },
-  
+
   {
     "username": "kishanrajput23",
     "name": "Kishan Kumar Rai",
     "email": "kishan.rai99693@gmail.com",
     "quote": "Belive in Yourself!"
   },
-  
+
   {
     "username": "riyaancode",
     "name": "Mohammad Riyan",
     "email": "mohammadriyan428@gmail.com",
     "quote": "High on Javascript! 🚀"
   },
-  
+
   {
     "username": "mukulpythondev",
     "name": "Mukul Rana",
     "email": "wpdevmukul@gmail.com",
     "quote": "Try until become fail or win ."
   },
-  
+
   {
     "username": "Harsh76200",
     "name": "Harsh Jain",
     "email": "harshjain76200@gmail.com",
     "quote": "Life is an art of letting go!"
+  },
+  {
+    "username": "RaturiAR7",
+    "name": "Anshul Raturi",
+    "email": "anshulraturi007@gmail.com",
+    "quote": "Wake up to reality. Nothing ever goes as planned in this world. The longer you live, the more you realize that only pain, suffering, and futility exist in this reality. — Madara Uchiha."
+  },
+
+  {
+    "username": "Yogeshpatgar03",
+    "name": "Yogesh",
+    "email": "yogeshpatgar03@gmail.com",
+    "quote": "Opportunities don't happen, you create them"
   }
 ]
