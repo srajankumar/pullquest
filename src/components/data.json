@@ -187,6 +187,12 @@
     "email": "raoa5022@gmail.com",
     "quote": "If you don't take risks, you cant create a future.--Monkey.D.Luffy (One Piece)"
   },
+  {
+    "username": "Madhura",
+    "name": "Madhura ",
+    "email": "MAdhura@gmail.com",
+    "quote": "If you don't take risks, you cant create a future.--Monkey.D.Luffy (One Piece)"
+  },
 
   {
     "username": "Dinesh-Deore1",
@@ -194,21 +200,21 @@
     "email": "dineshdeore.rcpit@gmail.com",
     "quote": "Fear kills more dreams than failure will ever"
   },
-  
+
   {
     "username": "OgaDavid",
     "name": "David",
     "email": "oluwademiladedavidoga@gmail.com",
     "quote": "One day, it'll look like it happened overnight. - me"
-  },   
-  
+  },
+
   {
     "username": "imnrb",
     "name": "Nitish Bhattacharjee",
     "email": "nitish.rupak@gmail.com",
     "quote": "try try but dont cry"
   },
-  
+
   {
     "username": "Swathi1203",
     "name": "swathi singh",
@@ -228,13 +234,12 @@
     "name": "Varshaa Shetty",
     "email": "shettyvarshaa275@gmail.com",
     "quote": "It is what it is, isn't it?"
-  }
+  },
 
-  ,{
+  {
     "username": "NiharaPadil",
     "name": "Nihara",
     "email": "niharapadilhr@gmail.com",
     "quote": "Google it!!"
   }
 ]
-
