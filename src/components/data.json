@@ -1,4 +1,5 @@
 [
+
   {
     "username": "whitebeard10",
     "name": "shanks",
@@ -378,5 +379,12 @@
     "name": "Darshit Dudhaiya",
     "email": "darshitdudhaiya201@gmail.com",
     "quote": "Embrace the bugs, refactor your dreams, and code your way to success."
+  },
+  
+  {
+    "username": "VinayakGaikwad101",
+    "name": "Vinayak",
+    "email": "vinayaakgaikwad@gmail.com",
+    "quote": "This is my first open source contribution"
   }
 ]
