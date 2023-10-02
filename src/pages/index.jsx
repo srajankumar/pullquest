@@ -9,10 +9,10 @@ export default function Home() {
     <div>
       <Image
         src={waves}
-        className="absolute object-cover h-screen opacity-100 bottom-0 -z-10"
+        className="absolute object-cover h-screen opacity-100 bottom-0 -z-20"
         alt="img"
       />
-      <h1 className="fixed font-sans flex flex-col text-white text-xl md:pb-20 pb-36 font-extrabold justify-center items-center h-full w-full">
+      <h1 className="fixed font-sans flex flex-col text-white text-xl -z-10 md:pb-20 pb-36 font-extrabold justify-center items-center h-full w-full">
         <div className="sm:text-7xl text-6xl font-sans">Pull Quest</div>
         <Link href="/instructions">
           <TextRunner />
