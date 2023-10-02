@@ -1,4 +1,3 @@
-import { useRef, useState } from "react";
 import Background from "../components/Background";
 import Footer from "../components/Footer";
 
