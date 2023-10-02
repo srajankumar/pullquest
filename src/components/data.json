@@ -408,5 +408,11 @@
     "name" : "Rajeev Krishna",
     "email" : "radzhivkrishna@gmail.com",
     "quote" : "Dev is the new cool"
+  },
+  {
+    "username": "Hrithikshetty",
+    "name": "Hrithik Shetty",
+    "email": "hrithik.cd21@sahyadri.edu.in",
+    "quote": "what a drag..!"
   }
 ]
