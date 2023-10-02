@@ -395,5 +395,12 @@
     "name": "Vinayak",
     "email": "vinayaakgaikwad@gmail.com",
     "quote": "This is my first open source contribution"
+  },
+
+  {
+    "username": "radzhiv25",
+    "name" : "Rajeev Krishna",
+    "email" : "radzhivkrishna@gmail.com",
+    "quote" : "Dev is the new cool"
   }
 ]
