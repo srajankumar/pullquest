@@ -1,22 +1,11 @@
 [
   {
-    "username": "whitebeard10",
-    "name": "shanks",
-    "email": "eganinja2@gmail.com",
-    "quote": "one piece is real"
-  },
-  {
     "username": "srajankumar",
     "name": "Srajan Kumar",
     "email": "kumarsrajan02@gmail.com",
     "quote": "DOOM DUT DA DA"
   },
-  {
-    "username": "wAsI7",
-    "name": "Syed Wasi Ali",
-    "email": "wasi.sparkzzz@gmail.com",
-    "quote": "Journey Begins!!"
-  },
+  
   {
     "username": "SushruthRao",
     "name": "SushruthRao",
@@ -379,10 +368,32 @@
     "email": "darshitdudhaiya201@gmail.com",
     "quote": "Embrace the bugs, refactor your dreams, and code your way to success."
   },
+  
+  {
+    "username": "wAsI7",
+    "name": "Syed Wasi Ali",
+    "email": "wasi.sparkzzz@gmail.com",
+    "quote": "Journey Begins!!"
+  },
+  
+  {
+    "username": "whitebeard10",
+    "name": "shanks",
+    "email": "eganinja2@gmail.com",
+    "quote": "one piece is real"
+  },
+
   {
     "username": "var-rishabh",
     "name": "Rishabh Varshney",
     "email": "right.rishabh@gmail.com",
     "quote": "Talk is cheap. Show me the code."
+  },
+
+  {
+    "username": "VinayakGaikwad101",
+    "name": "Vinayak",
+    "email": "vinayaakgaikwad@gmail.com",
+    "quote": "This is my first open source contribution"
   }
 ]
