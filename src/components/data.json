@@ -1,5 +1,11 @@
 [
   {
+    "username": "gva-cse",
+    "name": "Vanshika Gupta",
+    "email": "gvanshika170@gmail.com",
+    "quote": "Systum haiiiii"
+  },
+  {
     "username": "srajankumar",
     "name": "Srajan Kumar",
     "email": "kumarsrajan02@gmail.com",
@@ -402,6 +408,12 @@
     "name" : "Rajeev Krishna",
     "email" : "radzhivkrishna@gmail.com",
     "quote" : "Dev is the new cool"
+  },
+  {
+    "username": "Hrithikshetty",
+    "name": "Hrithik Shetty",
+    "email": "hrithik.cd21@sahyadri.edu.in",
+    "quote": "what a drag..!"
   },
   {
     "username": "Sakshi29G",
