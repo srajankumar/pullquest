@@ -1,17 +1,10 @@
 [
   {
-    "username": "gva-cse",
-    "name": "Vanshika Gupta",
-    "email": "gvanshika170@gmail.com",
-    "quote": "Systum haiiiii"
-  },
-  {
     "username": "srajankumar",
     "name": "Srajan Kumar",
     "email": "kumarsrajan02@gmail.com",
     "quote": "DOOM DUT DA DA"
   },
-  
   {
     "username": "SushruthRao",
     "name": "SushruthRao",
@@ -271,6 +264,12 @@
     "quote": "The more you will code the more you will learn💌"
   },
   {
+    "username": "jithset",
+    "name": "Jithin",
+    "email": "jithset@gmail.com",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
     "username": "Vivek-kumar21",
     "name": "Vivek Kumar Mandal",
     "email": "vivekkumarmndl18@gmail.com@gmail.com",
@@ -288,28 +287,24 @@
     "email": "yogeshpatgar03@gmail.com",
     "quote": "Opportunities don't happen, you create them"
   },
-
   {
     "username": "onemineus",
     "name": "Sangeet",
     "email": "sangeetbanerjee777@gmail.com",
     "quote": "Dm me on insta @onemineus"
   },
-
   {
     "username": "anirudhbelwadi",
     "name": "Anirudh Belwadi",
     "email": "anirudh.belwadi@gmail.com",
     "quote": "Good Things Take Time"
   },
-
   {
     "username": "naybyal",
     "name": "Nabiel Ahammed",
     "email": "nabiel.ahammed01@hotmail.com",
     "quote": "Sometimes, all you have to do is to merely slow down."
   },
-
   {
     "username": "PranavSShetty",
     "name": "Pranav S Shetty",
@@ -328,86 +323,71 @@
     "email": "harshithn.id21@sahyadri.edu.in",
     "quote": "I'm not lazy. I'm just on energy saving mode."
   },
-
   {
     "username": "Maahipal27",
     "name": "Maahi Pal",
     "email": "maahipal94@gmail.com",
     "quote": "The future depends on what you do today."
-
   },
-
   {
     "username": "0-mayurkaretha",
     "name": "Mayur Karetha",
     "email": "0.mayurkaretha@gmail.com",
     "quote": "I am Batman!"
-
   },
-
   {
     "username": "FkLalita",
     "name": "Faruq",
     "email": "Faruq2142@gmail.com",
     "quote": "Que Sere Sera."
-
   },
-
   {
     "username": "Xankush",
     "name": "ankush dohare",
     "email": "ankushdohare12@gmail.com",
     "quote": "anyone can change their destiny by will."
   },
-
   {
     "username": "Ankit9126",
     "name": "Ankit Goyal",
     "email": "ankit9126goyal@gmail.com",
     "quote": "So many broken children living in grown bodies mimicking adult lives"
-
   },
-
   {
     "username": "darshitdudhaiya",
     "name": "Darshit Dudhaiya",
     "email": "darshitdudhaiya201@gmail.com",
     "quote": "Embrace the bugs, refactor your dreams, and code your way to success."
   },
-  
   {
     "username": "wAsI7",
     "name": "Syed Wasi Ali",
     "email": "wasi.sparkzzz@gmail.com",
     "quote": "Journey Begins!!"
   },
-  
   {
     "username": "whitebeard10",
     "name": "shanks",
     "email": "eganinja2@gmail.com",
     "quote": "one piece is real"
   },
-
   {
     "username": "var-rishabh",
     "name": "Rishabh Varshney",
     "email": "right.rishabh@gmail.com",
     "quote": "Talk is cheap. Show me the code."
   },
-
   {
     "username": "VinayakGaikwad101",
     "name": "Vinayak",
     "email": "vinayaakgaikwad@gmail.com",
     "quote": "This is my first open source contribution"
   },
-
   {
     "username": "radzhiv25",
-    "name" : "Rajeev Krishna",
-    "email" : "radzhivkrishna@gmail.com",
-    "quote" : "Dev is the new cool"
+    "name": "Rajeev Krishna",
+    "email": "radzhivkrishna@gmail.com",
+    "quote": "Dev is the new cool"
   },
   {
     "username": "Hrithikshetty",
@@ -420,12 +400,45 @@
     "name": "Sakshi",
     "email": "sakshiip2023@gmail.com",
     "quote": "Open source is the best domain."
-  }
-  ,{
+  },
+  {
     "username": "vishpatil215",
     "name": "Vishal Patil",
     "email": "vishalgpatil215@gmail.com",
     "quote": "Hello Guys!!!!"
+  },
+  {
+    "username": "dikapitacion",
+    "name": "Divij Kathuria",
+    "email": "divijkathuria51714@gmail.com",
+    "quote": "ram ram bhai sareya ne"
+  },
+  {
+    "username": "MadhukarBhaktha591",
+    "name": "Madhukar Bhaktha",
+    "email": "madbprogramming@gmail.com",
+    "quote": "Nanna Kanasu Sundhara"
+  },
+  
+  {
+    "username": "if1eight0sty",
+    "name": "Roshan Aryan Majhi",
+    "email": "ma18yan@gmail.com",
+    "quote": "404"
+  },
+  
+  {
+    "username": "gva-cse",
+    "name": "Vanshika Gupta",
+    "email": "gvanshika170@gmail.com",
+    "quote": "Systum haiiiii"
+  },
+  
+  {
+    "username": "narasimha-1511",
+    "name": "Narasimha",
+    "email": "s.narasimha.2005@gmail.com",
+    "quote": "Hey Heloo how are you all"
   }
 
   ,{
