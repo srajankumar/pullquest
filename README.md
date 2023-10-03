@@ -1,4 +1,4 @@
-![Pull Quest](https://github.com/srajankumar/pullquest/blob/main/assets/title.png)
+![Pull Quest](https://github.com/srajankumar/pullquest/blob/main/assets/banner.png)
 
 Welcome, fellow developer, to an epic journey into the world of open source contributions! In this exhilarating quest, you will embark on your first pull request and leave your mark upon the codebase. Are you ready to unleash your coding prowess? Let's get started!
 

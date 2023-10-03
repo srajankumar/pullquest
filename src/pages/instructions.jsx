@@ -1,6 +1,5 @@
 import { useRef, useState } from "react";
 import Background from "../components/Background";
-import Link from "next/link";
 import Footer from "../components/Footer";
 
 function Instruction() {
@@ -204,11 +203,6 @@ function Instruction() {
           request and leaving your mark upon the codebase. May your future
           contributions be even more awe-inspiring as you continue your
           legendary journey!
-        </div>
-        <div className="text-center rounded-lg text-lg md:m-10 my-5 sm:mx-5 mx-3 md:py-5 py-3 bg-[#1111111c]">
-          <Link href="/explanation" className="font-bold hover:text-purple-950">
-            Explanation ?
-          </Link>
         </div>
       </div>
       <Footer />
