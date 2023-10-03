@@ -1,11 +1,5 @@
 [
   {
-    "username": "gva-cse",
-    "name": "Vanshika Gupta",
-    "email": "gvanshika170@gmail.com",
-    "quote": "Systum haiiiii"
-  },
-  {
     "username": "srajankumar",
     "name": "Srajan Kumar",
     "email": "kumarsrajan02@gmail.com",
@@ -270,6 +264,12 @@
     "quote": "The more you will code the more you will learn💌"
   },
   {
+    "username": "jithset",
+    "name": "Jithin",
+    "email": "jithset@gmail.com",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
     "username": "Vivek-kumar21",
     "name": "Vivek Kumar Mandal",
     "email": "vivekkumarmndl18@gmail.com@gmail.com",
@@ -407,10 +407,25 @@
     "email": "vishalgpatil215@gmail.com",
     "quote": "Hello Guys!!!!"
   },
+  
   {
     "username": "if1eight0sty",
     "name": "Roshan Aryan Majhi",
     "email": "ma18yan@gmail.com",
     "quote": "404"
+  },
+  
+  {
+    "username": "gva-cse",
+    "name": "Vanshika Gupta",
+    "email": "gvanshika170@gmail.com",
+    "quote": "Systum haiiiii"
+  },
+  
+  {
+    "username": "narasimha-1511",
+    "name": "Narasimha",
+    "email": "s.narasimha.2005@gmail.com",
+    "quote": "Hey Heloo how are you all"
   }
 ]
