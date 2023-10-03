@@ -149,10 +149,10 @@ Congratulations, brave developer, on conquering your first pull request and leav
 
 Now, go forth and code with valor! 🚀
 
-## Authors
+## Contributors
 
-- [@srajankumar](https://github.com/srajankumar)
+<a href="https://github.com/srajankumar/pullquest/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=srajankumar/pullquest" />
+</a>
 
-## Contributing
-
-Contributions are welcome! ;)
+### More contributions are always welcome! ;)
