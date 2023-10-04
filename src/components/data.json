@@ -500,5 +500,11 @@
     "name": "Meet Patel",
     "email": "meet2005pokar@gmail.com",
     "quote": "There is always one more bug to fix."
-  }
+ },
+  {
+  "username": "moingshaikh",
+  "name": "Moin",
+  "email": "montugshaikh@gmail.com",
+  "quote": "If it works, don't fix it ;)"
+}
 ]
