@@ -4,110 +4,78 @@ Welcome, fellow developer, to an epic journey into the world of open source cont
 
 ## Fork the Repository
 
-To begin, you need to fork the mighty repository by following the steps below:
-
-1. Visit the legendary realm of <a href="https://github.com/srajankumar/pullquest">srajankumar/pullquest</a>
-2. Locate the fork icon proudly displayed in the top-right corner of the repository.
-3. Click the fork icon to claim your own copy of the repository and make it your own.
-
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/fork.jpg)
-
-<hr/>
-
-![create_fork](https://github.com/srajankumar/pullquest/blob/main/assets/create-fork.jpg)
-
-<hr/>
+1. Head out to <a href="https://github.com/srajankumar/pullquest">srajankumar/pullquest</a>
+2. Look for the "Fork" button, which you'll find in the top-right corner of the repository's page.
+3. Click the "Fork" button. This will create a copy of the repository under your GitHub account.
 
 ## Set Up Locally
 
-Once you have your forked repository, it's time to bring the power of code to your local machine. Follow these steps:
-
-1. Click the green button labeled "Code" within your forked repository.
-2. Copy the sacred URL that appears.
-3. Open your Gitbash terminal and unleash the following command:
+1. Go to your forked repository on GitHub.
+2. Click the green "Code" button, and then copy the URL that appears.
+3. Open your Git Bash terminal or command line.
+4. Use the `git clone` command to download the repository to your local machine.
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/pullquest.git
 ```
 
-Replace <b>'YOUR_USERNAME'</b> with your magnificent GitHub username.
+Replace `YOUR_USERNAME` with your actual GitHub username in the URL.
 
-4. Witness the repository materialize before you. Enter the enchanted folder by typing:
+4. In your terminal or command prompt, use the `cd` command to navigate to the newly created repository folder.
 
 ```bash
 cd pullquest
 ```
 
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/clone_fork.jpg)
-
-<hr/>
-
 ## Create a New Branch
 
-Now, let's ensure the balance of the main branch remains undisturbed. Create a new branch within your repository realm using the steps below:
-
-1. Utter the ancient words:
+1. Open your terminal or command prompt.
+2. Use the `git branch` command to create a new branch, giving it a meaningful name.
 
 ```bash
 git branch username-profile
 ```
 
-Replace <b>'username'</b> with your legendary GitHub username.
+Replace `username` with your GitHub username.
 
-2. Venture forth into this new realm with the command:
+2. Switch to this newly created branch and begin working on it, use the `git checkout` command.
 
 ```bash
 git checkout username-profile
 ```
 
-Equip yourself with your profile sword, for it is time to add your unique profile details.
+Now, you are in the newly created branch and ready to add your unique profile details to the repository.
 
 ## Add Your Profile
 
-To join the hallowed hall of fame, you shall add your own profile details to the repository. Follow these instructions:
-
-1. Navigate to the <b>'src/components'</b> directory within your local repository.
-2. Open the sacred <b>'data.json'</b> file and behold the profiles that have come before you.
-3. Fear not, for you shall join their ranks! Using their wisdom as a guide, add your own profile in the following format:
+1. Navigate to the `src/components` directory within your local repository.
+2. Locate and open the `data.json` file. This file contains the profiles of others who have contributed to the project.
+3. Follow the template below and add your own profile details to the `data.json` file.
 
 ```json
-,{
+{
   "username": "your_github_username",
-  "name": "your_name",
-  "email": "email_id",
-  "quote": "sample_quote"
+  "name": "Your Full Name",
+  "email": "your_email@example.com",
+  "quote": "Your Inspirational Quote or Message"
 }
 ```
 
-Replace the placeholder values (<b>'your_github_username'</b>, <b>'your_name'</b>, <b>'email_id'</b>, and <b>'sample_quote'</b>) with your own information.
+Replace the placeholder values (`your_github_username`, `Your Full Name`, `your_email@example.com`, and `Your Inspirational Quote or Message`) with your actual information.
 
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/locate.jpg)
-
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/add_data.jpg)
-
-<hr/>
+4. Save the `data.json` file.
 
 ## Commit Your Changes
 
-With each keystroke, you shape your destiny. Now, it's time to gather your changes and prepare them for the grand quest ahead. Follow these steps:
-
-1. Invoke the sacred command:
+1. Stage all your changes by using the following command:
 
 ```bash
 git add .
 ```
 
-This will stage all your changes, ready for greatness.
+This prepares all your modified files for the upcoming commit.
 
-2. Commit your work with a powerful message that echoes through the ages:
+2. Commit your work with a descriptive message that summarizes your changes:
 
 ```bash
 git commit -m "Embark on an epic adventure: add my profile details"
@@ -115,39 +83,28 @@ git commit -m "Embark on an epic adventure: add my profile details"
 
 ## Push Your Changes
 
-The time has come to push your changes to your forked repository and illuminate the path for all to see. Execute the following command:
+Now, it's time to push your committed changes to your forked repository on GitHub:
 
 ```bash
 git push origin username-profile
 ```
 
-The forces of Git and GitHub shall carry your code to the distant reaches of the digital realm.
+Replace `your-username-profile` with the name of the branch where you added your profile details (e.g., `your-github-username-profile`).
 
 ## Create a Pull Request
 
-Brave warrior, open your web browser and gaze upon your forked copy in your GitHub dominion. A new chapter unfolds before you as you create a pull request, a gateway between realms. Follow these steps:
-
-1. Select the `new branch` you have forged.
-2. Aim it towards the realm of <b>'srajan'</b>'s profile branch.
-3. With a mighty click, submit your pull request and await the moment when fate intervenes.
-4. The repository owner shall review your valorous contribution and, upon successfully merging it, your profile shall take its rightful place among the honored ranks.
-5. Behold, as your name shines brightly in the submissions tab, a beacon of your triumph! ⭐
-
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/open_pr.jpg)
-
-<hr/>
-
-![fork](https://github.com/srajankumar/pullquest/blob/main/assets/create_pr.jpg)
-
-<hr/>
+1. Open your web browser and go to your forked repository on GitHub.
+2. Ensure you have selected the branch where you made your changes (e.g., `your-username-profile`) from the branch dropdown.
+3. Navigate to the main repository, in this case, `srajankumar/pullquest.`
+4. Click on the **"Pull Requests"** tab at the top of the repository.
+5. Click the **"New Pull Request"** button.
+6. GitHub will automatically detect the changes you made in your branch compared to the main repository's branch. Ensure that the base branch is set to 'srajan/pullquest' or whichever base branch is appropriate.
+7. Give your Pull Request a meaningful title and description, explaining the purpose of your changes.
+8. Finally, click the **"Create Pull Request"** button to submit your Pull Request.
 
 ## Congratulations!
 
-Congratulations, brave developer, on conquering your first pull request and leaving your mark upon the codebase. Your journey has just begun, and may your future contributions be even more awe-inspiring as you continue your legendary quest!
-
-Now, go forth and code with valor! 🚀
+Congratulations you have successfully contributed to this repository!
 
 ## Contributors
 
