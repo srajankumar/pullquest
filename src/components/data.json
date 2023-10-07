@@ -107,7 +107,6 @@
     "email": "mokshasai910@gmail.com",
     "quote": "Small steps matter.."
   },
-
   {
     "username": "abhisheksharm-3",
     "name": "Abhishek Sharma",
@@ -120,14 +119,12 @@
     "email": "shrestharitik@gmail.com",
     "quote": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."
   },
-
   {
     "username": "IamSudhir-Kumar",
     "name": "Sudhir Kumar",
     "email": "sudhirk33835@gmail.com",
     "quote": "The secret of success is to do the common thing uncommonly well"
   },
-
   {
     "username": "manthankhawse",
     "name": "Manthan Khawse",
@@ -350,7 +347,6 @@
     "email": "vitalik_nba@mail.ru",
     "quote": "Veni, vidi, vici"
   },
-
   {
     "username": "FkLalita",
     "name": "Faruq",
@@ -375,14 +371,12 @@
     "email": "darshitdudhaiya201@gmail.com",
     "quote": "Embrace the bugs, refactor your dreams, and code your way to success."
   },
-
   {
     "username": "wAsI7",
     "name": "Syed Wasi Ali",
     "email": "wasi.sparkzzz@gmail.com",
     "quote": "Journey Begins!!"
   },
-
   {
     "username": "whitebeard10",
     "name": "shanks",
@@ -461,28 +455,24 @@
     "email": "madbprogramming@gmail.com",
     "quote": "Nanna Kanasu Sundhara"
   },
-
   {
     "username": "if1eight0sty",
     "name": "Roshan Aryan Majhi",
     "email": "ma18yan@gmail.com",
     "quote": "404"
   },
-
   {
     "username": "gva-cse",
     "name": "Vanshika Gupta",
     "email": "gvanshika170@gmail.com",
     "quote": "Systum haiiiii"
   },
-
   {
     "username": "narasimha-1511",
     "name": "Narasimha",
     "email": "s.narasimha.2005@gmail.com",
     "quote": "Hey Heloo how are you all"
   },
-
   {
     "username": "Arpcoder",
     "name": "Arpna",
@@ -506,17 +496,23 @@
     "name": "Kshithij H S",
     "email": "kshithijhs@gmail.com",
     "quote": "Oni chan Message"
- },
+  },
   {
     "username": "meet244",
     "name": "Meet Patel",
     "email": "meet2005pokar@gmail.com",
     "quote": "There is always one more bug to fix."
- },
+  },
   {
-  "username": "moingshaikh",
-  "name": "Moin",
-  "email": "montugshaikh@gmail.com",
-  "quote": "If it works, don't fix it ;)"
-}
+    "username": "moingshaikh",
+    "name": "Moin",
+    "email": "montugshaikh@gmail.com",
+    "quote": "If it works, don't fix it ;)"
+  },
+  {
+    "username": "trishan9",
+    "name": "Trishan Wagle",
+    "email": "mailtotrishan@gmail.com",
+    "quote": "Eat, Sleep, Code, Repeat!"
+  }
 ]
