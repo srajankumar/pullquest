@@ -7,9 +7,9 @@ import TextRunner from "@/components/TextRunner";
 export default function Home() {
   return (
     <div>
-      <Image
+            <Image
         src={waves}
-        className="absolute object-cover h-screen opacity-100 bottom-0 -z-20"
+        className="absolute object-cover h-screen opacity-100 bottom-0 -z-20 w-full"
         alt="img"
       />
       <h1 className="fixed font-sans flex flex-col text-white text-xl -z-10 md:pb-20 pb-36 font-extrabold justify-center items-center h-full w-full">
